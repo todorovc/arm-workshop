@@ -6,11 +6,11 @@
     "resources": [
         {
             "type": "Microsoft.Storage/storageAccounts",
-            "name": "richeneysa",
+            "name": "christo",
             "apiVersion": "2015-06-15",
             "location": "[resourceGroup().location]",
             "tags": {
-                "displayName": "richeneysa"
+                "displayName": "christo"
             },
             "properties": {
                 "accountType": "Standard_LRS"
